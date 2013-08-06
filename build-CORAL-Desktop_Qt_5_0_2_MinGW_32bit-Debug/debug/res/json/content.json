@@ -1,0 +1,61 @@
+{
+    "required": {
+        "groups": [
+            {
+                "title": "test",
+                "videos": [
+                    "https://www.youtube.com/watch?v=Hl-zzrqQoSE",
+                    "https://www.youtube.com/watch?v=5u8rFbpdvds",
+                    "https://www.youtube.com/watch?v=CE8UIbb_4iM"
+                ],
+                "documents": [
+                    "qtexcerpt.pdf"
+                ],
+                "webpages": []
+            },
+            {
+                "title": "test2",
+                "videos": [],
+                "documents": [],
+                "webpages": []
+            }
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=Hl-zzrqQoSE",
+            "https://www.youtube.com/watch?v=5u8rFbpdvds",
+            "https://www.youtube.com/watch?v=CE8UIbb_4iM"
+        ],
+        "documents": [],
+        "webpages": []
+    },
+    "optional": {
+        "groups": [
+            {
+                "title": "optional1",
+                "videos": [],
+                "documents": [],
+                "webpages": []
+            },
+            {
+                "title": "optional2",
+                "videos": [],
+                "documents": [],
+                "webpages": []
+            }
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=CE8UIbb_4iM"
+        ],
+        "documents": [
+            "test.pdf",
+            "qtexcerpt.pdf"
+        ],
+        "webpages": [
+            {
+                "url": "http://www.kongregate.com/games/freerangegames/freefall-tournament",
+                "title": "Unity Test",
+                "restriction": "domain"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "required": {
+        "groups": [
+            {
+                "videos": [],
+                "documents": [],
+                "games": []
+            },
+            {
+                "videos": [],
+                "documents": [],
+                "games": []
+            }
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=Hl-zzrqQoSE",
+            "https://www.youtube.com/watch?v=5u8rFbpdvds",
+            "https://www.youtube.com/watch?v=CE8UIbb_4iM"
+        ],
+        "documents": [],
+        "games": []
+    },
+    "optional": {
+        "groups": [
+            {
+                "videos": [],
+                "documents": [],
+                "games": []
+            },
+            {
+                "videos": [],
+                "documents": [],
+                "games": []
+            }
+        ],
+        "videos": ["https://www.youtube.com/watch?v=CE8UIbb_4iM"],
+        "documents": ["test.pdf","qtexcerpt.pdf"],
+        "games": []
+    }
+}
